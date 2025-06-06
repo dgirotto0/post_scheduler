@@ -15,6 +15,17 @@ O Post Scheduler é uma aplicação mobile desenvolvida em Flutter que permite a
 - Edição e exclusão de postagens agendadas
 - Interface responsiva para diferentes tamanhos de tela
 
+## Screenshots
+
+<div style="display:flex; justify-content:center;">   
+  <img src="./screenshots/home-screen.png" width="250">
+  <img src="./screenshots/agendar-postagem-blank.jpg"  width="250">
+  <img src="./screenshots/selecionar-midia.jpg" width="250">
+  <img src="./screenshots/agendar-postagem.jpg" width="250">
+  <img src="./screenshots/postagens-agendadas.jpg" width="250">
+  <img src="./screenshots/editar-remover.jpg" width="250">
+  <img src="./screenshots/postagens-agendadas2.jpg" width="250">
+</div>
 
 ## Tecnologias Utilizadas
 
